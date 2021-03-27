@@ -9,5 +9,5 @@ You can contact me on Discord at *@Eggy115#4293*. I'm on most of the time, so ho
 
 # Projects
 
-I'm working on a lot of things right now.
+I'm working on a lot of things right now in Java, Python and other coding languages.
 
