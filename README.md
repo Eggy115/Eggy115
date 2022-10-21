@@ -1,7 +1,7 @@
 # Overview
 
 Hi I'm @Eggy115.
-I like to code I guess, but not professionally... *yet*
+I like to code I guess.
 
 # Contact
 
