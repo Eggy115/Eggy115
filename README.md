@@ -1,6 +1,6 @@
 # Overview
 
-Hi I'm @Eggy115.
+Hi I'm [Eggy115](https://github.com/Eggy115).
 I like to code I guess.
 
 # Contact
