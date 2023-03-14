@@ -59,8 +59,7 @@ public class eggy115 {
     System.out.println("Eggy115");
   }
 }
-```
-  
+```    
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggy115&layout=compact&theme=gotham&hide_border=true" />
   
 <hr>   
