@@ -62,6 +62,8 @@ public class eggy115 {
 ```
 
 <hr>  
+<img src="https://github-readme-stats.vercel.app/api?username=Eggy115&show_icons=true&theme=gotham"/>
+<hr>  
 </p>
 
 <h2 align="center"> You cannot leave here now </h2>
