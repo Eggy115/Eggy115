@@ -5,7 +5,7 @@
   👋 I am Eggy115
 </h3>
 
-<img src="https://user-images.githubusercontent.com/79756011/215318161-5a460e76-2d8c-4441-b20e-2ae1ee036ff5.svg" align="center"/>
+<td valign="center" img src="https://user-images.githubusercontent.com/79756011/215318161-5a460e76-2d8c-4441-b20e-2ae1ee036ff5.svg" align="center"/>
 
 <hr>
 
@@ -28,18 +28,12 @@
     <tr>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/HTML-blue" /> 
-        <img src="https://img.shields.io/badge/CSS-blue" />
-        <img src="https://img.shields.io/badge/JavaScript-blue" /> 
-        <img src="https://img.shields.io/badge/TypeScript-blue" />
       </td>      
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Django-blue" /> 
-        <img src="https://img.shields.io/badge/Python-blue" /> 
       </td>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/AWS-blue" /> 
-        <img src="https://img.shields.io/badge/CI/CD-blue" />
-        <img src="https://img.shields.io/badge/PostgreSQL-blue" /> 
       </td>
     </tr>
   </table>
