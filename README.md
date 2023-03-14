@@ -14,7 +14,7 @@ Here is my [website](https://eggy115.github.io).
 
 <hr>
 
-</p> -->
+</p>
 
 <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
