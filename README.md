@@ -32,13 +32,13 @@ Eggy115 always win and never lose
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-        text
+        dont
       </td>      
       <td valign="center" align="center" width="300px">
-        text
+        you
       </td>
       <td valign="center" align="center" width="300px">
-        text
+        think
       </td>
     </tr>
   </table>
