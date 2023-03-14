@@ -19,10 +19,7 @@
 </p>
 
 <hr>
-
-<details closed> 
-  <summary><h2>hello</h2></summary>
-  hello
+  
 I exist     
 *I make project*      
 **I have not been using github for long**     
@@ -30,7 +27,7 @@ I exist
 <ins>Technology is pretty spooky yo</ins>        
 ~~I am stuck~~     
 Eggy115 always win and never lose    
-</details>
+
 <hr>
 
 <div align="center" style="width:100%"> 
