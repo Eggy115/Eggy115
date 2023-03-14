@@ -52,9 +52,10 @@ Eggy115 always win and never lose
 </div>
     
 <hr>
-<code>
-        print("Eggy115")
-        okay</code>        
+```yml
+hello
+yeah
+```
 </p>
 
 <h2 align="center"> You cannot leave here now </h2>
