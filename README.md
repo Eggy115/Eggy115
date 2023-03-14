@@ -2,7 +2,10 @@
   Hi, Nice to meet you.
 </h1>
 <h3 align="center">
-  I am Eggy115
+  👋 I am Eggy115
+  - List
+  - List
+  - List
 </h3>
 
 <hr>
