@@ -53,11 +53,8 @@ Eggy115 always win and never lose
     
 <hr>
 
-```text
-TypeScript   13 hrs 18 mins  ██████████████████▒░░░░░░   73.84 %
-JavaScript   2 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
-YAML         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
-Other        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
+```yml
+print("Hello Eggy115")
 ```
 
 </p>
