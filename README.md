@@ -50,7 +50,7 @@ Eggy115 always win and never lose
     </tr>
   </table>
 </div>
-    
+<hr>     
 <div align="left" style="width:20%"> 
 
 ```js
@@ -61,7 +61,7 @@ public class eggy115 {
 }
 ```
 
-  
+<hr>  
 </p>
 
 <h2 align="center"> You cannot leave here now </h2>
