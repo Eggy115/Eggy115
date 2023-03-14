@@ -69,7 +69,7 @@ public class eggy115 {
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
 
-<details open> 
+<details closed> 
   <summary><h2>hello</h2></summary>
   hello
 </details>
