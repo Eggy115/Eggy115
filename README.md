@@ -54,7 +54,11 @@ Eggy115 always win and never lose
 <hr>
 
 ```js
-public static void main(String[] args) {
+public class eggy115 {
+  public static void main(String[] args) {
+    System.out.println("Hello World");
+  }
+}
 ```
 
 </p>
