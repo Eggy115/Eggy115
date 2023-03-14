@@ -52,9 +52,14 @@ Eggy115 always win and never lose
 </div>
     
 <hr>
+
 ```text
-yah
+TypeScript   13 hrs 18 mins  ██████████████████▒░░░░░░   73.84 %
+JavaScript   2 hrs 48 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
+YAML         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
+Other        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 %
 ```
+
 </p>
 
 <h2 align="center"> You cannot leave here now </h2>
