@@ -14,6 +14,8 @@
 - Technology is pretty spooky yo
 - Eggy115 always win and never lose
 
+<hr>
+
 <div align="center" style="witdh:100%"> 
   <table>
     <tr>
@@ -43,7 +45,6 @@
 
 ![contributions](https://user-images.githubusercontent.com/79756011/215318161-5a460e76-2d8c-4441-b20e-2ae1ee036ff5.svg)
         
-<hr>
 
 </p>
 
