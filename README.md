@@ -1,5 +1,5 @@
 <h1 align="center">
-  Greetings, fellow humans
+  DON'T TRUST THE TECHNOLOGY
 </h1>
 <h3 align="center">
   👋 I am <a href="https://github.com/Eggy115">Eggy115</a>
