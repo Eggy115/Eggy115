@@ -27,10 +27,6 @@ I exist
 <ins>Technology is pretty spooky yo</ins>        
 ~~I am stuck~~     
 Eggy115 always win and never lose    
-<details closed> 
-  <summary><h2>hello</h2></summary>
-  hello
-</details>
 <hr>
 
 <div align="center" style="width:100%"> 
@@ -55,7 +51,11 @@ Eggy115 always win and never lose
 </div>
 <hr>   
 <div align="left" style="width:20%"> 
-  
+
+<details closed> 
+  <summary><h2>hello</h2></summary>
+  hello
+
 ```js
 public class eggy115 {
   public static void main(String[] args) {
@@ -64,6 +64,8 @@ public class eggy115 {
 }
 ```
 
+</details>  
+  
 <hr>  
 </p>
 
