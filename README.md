@@ -27,7 +27,10 @@ I exist
 <ins>Technology is pretty spooky yo</ins>        
 ~~I am stuck~~     
 Eggy115 always win and never lose    
-
+<details closed> 
+  <summary><h2>hello</h2></summary>
+  hello
+</details>
 <hr>
 
 <div align="center" style="width:100%"> 
@@ -68,8 +71,3 @@ public class eggy115 {
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
-
-<details closed> 
-  <summary><h2>hello</h2></summary>
-  hello
-</details>
