@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, Nice to meet you.
+  Greetings, fellow humans
 </h1>
 <h3 align="center">
   👋 I am Eggy115
