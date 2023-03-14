@@ -44,7 +44,8 @@ Eggy115 always win and never lose
   </table>
 </div>
     
-
+<hr>
+        
 </p>
 
 <h2 align="center"> You cannot leave here now </h2>
