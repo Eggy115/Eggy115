@@ -61,11 +61,7 @@ public class eggy115 {
 }
 ```
 
-<hr>  
-    
-[![Eggy115's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eggy115)](https://github.com/Eggy115/github-readme-stats)
-     
-<hr>  
+<hr>   
 </p>
 
 <h2 align="center"> You cannot leave here now </h2>
