@@ -62,7 +62,7 @@ public class eggy115 {
 ```
 
 <hr>  
-<img src="https://github-readme-stats.vercel.app/api?username=Eggy115&show_icons=true&theme=gotham"/>
+[![Eggy115's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eggy115)](https://github.com/Eggy115/github-readme-stats)
 <hr>  
 </p>
 
