@@ -15,10 +15,10 @@
 <hr>
 
 I exist     
-I make project      
-I have not been using github for long     
-Eggy115 on top     
-Technology is pretty spooky yo     
+*I make project*      
+**I have not been using github for long**     
+***Eggy115 on top***     
+<ins>Technology is pretty spooky yo</ins>
 Eggy115 always win and never lose    
 
 <hr>
