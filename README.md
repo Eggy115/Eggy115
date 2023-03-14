@@ -5,7 +5,7 @@
   👋 I am Eggy115
 </h3>
 
-<td valign="center" img src="https://user-images.githubusercontent.com/79756011/215318161-5a460e76-2d8c-4441-b20e-2ae1ee036ff5.svg" align="center"/>
+<img src="https://user-images.githubusercontent.com/79756011/215318161-5a460e76-2d8c-4441-b20e-2ae1ee036ff5.svg" align="center"/>
 
 <hr>
 
@@ -18,7 +18,7 @@
 
 <hr>
 
-<div align="center" style="witdh:100%"> 
+<div align="center" style="width:100%"> 
   <table>
     <tr>
       <td valign="center" width="100px"><b>Frontend<b></td>
