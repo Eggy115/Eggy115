@@ -6,7 +6,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Eggy115&show_icons=true&theme=gotham" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggy115&layout=compact&theme=gotham&hide_border=false" />
   <img src="https://img.shields.io/badge/Eggy115-red" />     
   <img src="https://img.shields.io/badge/Eggy115-orange" /> 
   <img src="https://img.shields.io/badge/Eggy115-yellow" /> 
