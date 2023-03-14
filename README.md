@@ -61,7 +61,7 @@ public class eggy115 {
 }
 ```    
 <img src="https://github-readme-stats.vercel.app/api/?username=Eggy115&theme=gotham&hide_border=true" />
-<img src="https://github-readme-stats.vercel.app/api/toplang/?username=Eggy115&theme=gotham&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggy115&theme=gotham&hide_border=true" />
 <hr>   
 </p>
 
