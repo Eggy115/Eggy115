@@ -51,8 +51,7 @@ Eggy115 always win and never lose
   </table>
 </div>
 <hr>     
-<div align="left" style="width:20%"> 
-
+<div align="left" style="width:20%">   
 ```js
 public class eggy115 {
   public static void main(String[] args) {
@@ -60,6 +59,7 @@ public class eggy115 {
   }
 }
 ```    
+<div align="center" style="width:100%">  
 <img src="https://github-readme-stats.vercel.app/api/?username=Eggy115&theme=gotham&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggy115&layout=compact&theme=gotham&hide_border=true" />
 <hr>   
