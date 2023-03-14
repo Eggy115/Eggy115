@@ -53,8 +53,8 @@ Eggy115 always win and never lose
     
 <hr>
 
-```yml
-print("Hello Eggy115")
+```js
+public static void main(String[] args) {
 ```
 
 </p>
