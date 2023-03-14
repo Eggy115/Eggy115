@@ -2,7 +2,7 @@
   Greetings, fellow humans
 </h1>
 <h3 align="center">
-  👋 I am [Eggy115](https://github.com/Eggy115)
+  👋 I am <a href="https://github.com/Eggy115">Eggy115</a>
 </h3>
 
 <p align="center">
