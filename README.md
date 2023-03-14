@@ -52,6 +52,7 @@ Eggy115 always win and never lose
 </div>
 <hr>     
 <div align="left" style="width:20%">   
+    
 ```js
 public class eggy115 {
   public static void main(String[] args) {
