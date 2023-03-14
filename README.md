@@ -26,9 +26,9 @@ Eggy115 always win and never lose
 <div align="center" style="width:100%"> 
   <table>
     <tr>
-      <td valign="center" width="100px"><b>Tables<b></td>
-      <td valign="center" width="100px"><b>are<b></td>
-      <td valign="center" width="100px"><b>cool<b></td>
+      <td align="center" width="100px"><b>Tables<b></td>
+      <td align="center" width="100px"><b>are<b></td>
+      <td align="center" width="100px"><b>cool<b></td>
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
