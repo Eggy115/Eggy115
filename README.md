@@ -46,6 +46,8 @@ Eggy115 always win and never lose
       </td>
       <td valign="center" align="center" width="300px">
         think
+    </tr>
+    <tr>
       <td valign="center" align="center" width="300px">
         dont
       </td>      
@@ -53,9 +55,8 @@ Eggy115 always win and never lose
         you
       </td>
       <td valign="center" align="center" width="300px">
-        think        
-      </td>
-    </tr>
+        think
+    </tr>        
   </table>
 </div>
 <hr>     
