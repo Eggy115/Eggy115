@@ -20,12 +20,12 @@
 
 <hr>
 
-I exist     
-*I make project*      
-**I have not been using github for long**     
+Me exist     
+*Me make project*      
+**Me no use github long time**     
 ***Eggy115 on top***     
 <ins>Technology is pretty spooky yo</ins>        
-~~I am stuck~~     
+~~This sentence may or not be grammatically correct.~~     
 Eggy115 always win and never lose    
 
 <hr>
