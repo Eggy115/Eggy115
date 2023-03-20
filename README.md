@@ -6,8 +6,8 @@
 </h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Eggy115-ff0000" />     
-  <img src="https://img.shields.io/badge/Eggy115-ffff00" /> 
+  <img src="https://img.shields.io/badge/Eggy115-red" />     
+  <img src="https://img.shields.io/badge/Eggy115-orange" /> 
   <img src="https://img.shields.io/badge/Eggy115-yellow" /> 
   <img src="https://img.shields.io/badge/Eggy115-yellowgreen" /> 
   <img src="https://img.shields.io/badge/Eggy115-green" /> 
