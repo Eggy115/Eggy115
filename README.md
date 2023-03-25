@@ -2,9 +2,8 @@
   Hewwwwooooooooooo
 </h1>
 <h3 align="center">
-  👋 I am <a href="https://github.com/Eggy115">Eggy115</a>
 <details> 
-	<summary>"Tell me more, I can't get enough!"</summary>
+	<summary>👋 I am <a href="https://github.com/Eggy115">Eggy115</a></summary>
 	hello
 </details>	
 </h3>
