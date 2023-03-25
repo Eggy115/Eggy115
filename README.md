@@ -101,7 +101,8 @@ Eggy115 always win and never lose
 <details>    
 	<summary>Code</summary>
 	<br>
-	
+<div align="left" style="width:20%">   
+		
 ```java
 public class eggy115 {
   public static void main(String[] args) {
