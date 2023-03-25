@@ -44,7 +44,7 @@ Me exist
 ~~This sentence may or not be grammatically correct.~~     
 Eggy115 always win and never lose    
 
-<hr>
+#       
 
 <div align="center" style="width:100%"> 
   <table>
@@ -96,7 +96,7 @@ Eggy115 always win and never lose
   </table>
 </div>
         
-#     
+<hr>     
         
 <div align="center" style="width:20%">   
 	
@@ -111,24 +111,42 @@ public class eggy115 {
     System.out.println("Eggy115");
   }
 }
-```    
+```  
+	
+#	
+		
 ```py
 print("Eggy115")
 ```
+	
+#	
+	
 ```batch
 @echo off
 echo Eggy115
 ```	
+	
+#	
+	
 ```js
 console.log('hello world')
 ```
+	
+#	
+	
 ```shell
 #!/bin/sh
 echo Eggy115
 ```
+	
+#
+	
 ```py
 /tellraw @a {"text":"Eggy115"}
 ```
+	
+#	
+	
 ```powershell
 write-host "Eggy115"
 ```
