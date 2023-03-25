@@ -3,7 +3,6 @@
 </h1>
 <h3 align="center">
   👋 I am <a href="https://github.com/Eggy115">Eggy115</a>
-</h3>
 <details> 
 	<summary>"Tell me more, I can't get enough!"</summary>
 	<br>
@@ -18,7 +17,9 @@
 		</li>
 		<li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also open sourced</li>
 	</ul>
-</details>
+</details>	
+</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Eggy115-red" />     
   <img src="https://img.shields.io/badge/Eggy115-orange" /> 
