@@ -103,7 +103,7 @@ Eggy115 always win and never lose
 <details>    
 	<summary><h3>Code</h3></summary>
 	      
-	# 
+# 
 	 
 <div align="left" style="width:20%">   
 		
