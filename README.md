@@ -80,7 +80,7 @@ Eggy115 always win and never lose
     </tr>        
   </table>
 </div>
-<hr>     
+#   
 <div align="left" style="width:20%">   
     
 ```js
