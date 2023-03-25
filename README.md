@@ -97,7 +97,9 @@ Eggy115 always win and never lose
 #     
         
 <div align="left" style="width:20%">   
+	
 <details>    
+	<summary>Code</summary>
 ```java
 public class eggy115 {
   public static void main(String[] args) {
@@ -125,6 +127,7 @@ echo Eggy115
 ```powershell
 write-host "Eggy115"
 ```
+	
 </details>
 	
 #  
