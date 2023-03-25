@@ -3,15 +3,20 @@
 </h1>
 <h3 align="center">
 <details> 
+	
 	<summary>👋 I am <a href="https://github.com/Eggy115">Eggy115</a></summary>
+	
 	<br>
+	
 <p align="center">
+	
 Helloooo       
 This is paragraph text       
 I don't know what to write here      
 Okey   
             
 </p>
+	
 </details>	
 </h3>
 
