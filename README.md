@@ -99,7 +99,7 @@ Eggy115 always win and never lose
 <div align="center" style="width:20%">   
 	
 <details>    
-	<summary>Code</summary>
+	<summary><h3>Code</h3></summary>
 	<br>
 <div align="left" style="width:20%">   
 		
