@@ -7,8 +7,11 @@
 	<br>
 	<p align="center">
 		Helloooo
+		This is paragraph text
+		I don't know what to write here
+		Okey
+		       
 	</p>
-	<br>
 </details>	
 </h3>
 
