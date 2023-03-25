@@ -98,7 +98,7 @@ Eggy115 always win and never lose
         
 <div align="left" style="width:20%">   
     
-```js
+```java
 public class eggy115 {
   public static void main(String[] args) {
     System.out.println("Eggy115");
@@ -112,6 +112,9 @@ print("Eggy115")
 @echo off
 echo Eggy115
 ```	
+```js
+console.log('hello world')
+```
 #  
   
 <div align="center" style="width:100%">  
