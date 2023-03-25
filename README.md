@@ -119,7 +119,7 @@ console.log('hello world')
 #!/bin/sh
 echo Eggy115
 ```
-```js
+```py
 /tellraw @a {"text":"Eggy115"}
 ```
 ```powershell
