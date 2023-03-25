@@ -96,10 +96,10 @@ Eggy115 always win and never lose
         
 #     
         
-<div align="left" style="width:20%">   
+<div align="center" style="width:20%">   
 	
 <details>    
-	<summary><p align="center">Code</p></summary>
+	<summary>Code</summary>
 	<br>
 	
 ```java
