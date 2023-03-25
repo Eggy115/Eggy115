@@ -105,7 +105,9 @@ public class eggy115 {
   }
 }
 ```    
-  
+```py
+print("Eggy115")
+```
 #  
   
 <div align="center" style="width:100%">  
