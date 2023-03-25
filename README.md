@@ -108,6 +108,10 @@ public class eggy115 {
 ```py
 print("Eggy115")
 ```
+```batch
+@echo off
+echo Eggy115
+```	
 #  
   
 <div align="center" style="width:100%">  
