@@ -44,7 +44,7 @@ Me exist
 ~~This sentence may or not be grammatically correct.~~     
 Eggy115 always win and never lose    
 
-#       
+<hr>          
 
 <div align="center" style="width:100%"> 
   <table>
@@ -96,7 +96,7 @@ Eggy115 always win and never lose
   </table>
 </div>
         
-<hr>     
+#          
         
 <div align="center" style="width:20%">   
 	
