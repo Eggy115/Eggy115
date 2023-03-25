@@ -14,7 +14,7 @@ Okey
 </details>
 	
 </h3>
-
+<li>By the way, our <a href="https://github.com/github/docs">documentation</a> 🤓 is also open sourced</li>
 <p align="center">
   <img src="https://img.shields.io/badge/Eggy115-red" />     
   <img src="https://img.shields.io/badge/Eggy115-orange" /> 
