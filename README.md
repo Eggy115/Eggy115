@@ -5,9 +5,10 @@
 <details> 
 	<summary>👋 I am <a href="https://github.com/Eggy115">Eggy115</a></summary>
 	<br>
-	<p align="center">
+	<h4 align="center">
 		Helloooo
 	</p>
+	<br>
 </details>	
 </h3>
 
