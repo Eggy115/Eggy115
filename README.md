@@ -119,11 +119,11 @@ console.log('hello world')
 #!/bin/sh
 echo Eggy115
 ```
-```mcfunction
+```json
 /tellraw @a {"text":"Eggy115"}
 ```
 ```powershell
-write-host "hello"
+write-host "Eggy115"
 ```
 
 #  
