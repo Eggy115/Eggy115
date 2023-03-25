@@ -5,13 +5,13 @@
 <details> 
 	<summary>👋 I am <a href="https://github.com/Eggy115">Eggy115</a></summary>
 	<br>
-	<p align="center">
+<p align="center">
 	Helloooo   
 	This is paragraph text   
 	I don't know what to write here   
 	Okey   
 		          
-	</p>
+</p>
 </details>	
 </h3>
 
