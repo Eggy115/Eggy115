@@ -3,7 +3,6 @@
 </h1>
 <h3 align="center">
 <details> 
-	
 	<summary>👋 I am <a href="https://github.com/Eggy115">Eggy115</a></summary>
 	
 	<br>
