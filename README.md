@@ -115,6 +115,17 @@ echo Eggy115
 ```js
 console.log('hello world')
 ```
+```shell
+#!/bin/sh
+echo Eggy115
+```
+```mcfunction
+/tellraw @a {"text":"Eggy115"}
+```
+```powershell
+write-host "hello"
+```
+
 #  
   
 <div align="center" style="width:100%">  
