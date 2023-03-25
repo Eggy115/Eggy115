@@ -100,6 +100,7 @@ Eggy115 always win and never lose
 	
 <details>    
 	<summary>Code</summary>
+	
 ```java
 public class eggy115 {
   public static void main(String[] args) {
