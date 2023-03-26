@@ -6,7 +6,7 @@
 	<summary align="center">👋 I am <a href="https://github.com/Eggy115">Eggy115</a></summary>	
 <h4 align="justify">	
 	               
-<p align = "center" Helloooo this text is simply filler... to fill in the gap between the title and the list.... yeah!>      
+<p align="center"> Helloooo this text is simply filler... to fill in the gap between the title and the list.... yeah!</p>      
 <li> 🌍 This is paragraph text       
 <li> 🖥️ I don't know what to write here      
 <li> ✉️ Okey      
