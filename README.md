@@ -7,9 +7,13 @@
 <p align="justify">	
 	               
 Helloooo       
-<li> This is paragraph text       
-<li> I don't know what to write here      
-<li> Okey               
+<li> This is paragraph text 🌍      
+<li> I don't know what to write here 🖥️     
+<li> Okey ✉️     
+<li> This is paragraph text 🚀      
+<li> I don't know what to write here 🧠     
+<li> Okey 🧠  
+<li> Okey ⚡  
 </p>	
 </details>
 	
