@@ -7,9 +7,9 @@
 <p align="center">	
 	               
 Helloooo       
-This is paragraph text       
-I don't know what to write here      
-Okey               
+- This is paragraph text       
+- I don't know what to write here      
+- Okey               
 </p>	
 </details>
 	
