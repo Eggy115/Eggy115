@@ -3,8 +3,8 @@
 </h1>
 <h3 align="center">
 <details> 
-	<summary align="left">👋 I am <a href="https://github.com/Eggy115">Eggy115</a></summary>	
-<p align="center">	
+	<summary align="center">👋 I am <a href="https://github.com/Eggy115">Eggy115</a></summary>	
+<p align="justify">	
 	               
 Helloooo       
 <li> This is paragraph text       
