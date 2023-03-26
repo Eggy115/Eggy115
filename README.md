@@ -1,7 +1,7 @@
 <h1 align="center">
   Bonjour
 </h1>
-<h3 align="center">
+<h3 align="left">
 <details> 
 	<summary>👋 I am <a href="https://github.com/Eggy115">Eggy115</a></summary>	
 <p align="left">	
