@@ -4,7 +4,7 @@
 <h3 align="center">
 <details> 
 	<summary align="center">👋 I am <a href="https://github.com/Eggy115">Eggy115</a></summary>	
-<p align="justify">	
+<h4 align="justify">	
 	               
 Helloooo       
 <li> 🌍 This is paragraph text       
@@ -14,7 +14,7 @@ Helloooo
 <li> 🧠 The better your project is      
 <li> 🤝 I...   
 <li> ⚡ Whoo   
-</p>	
+</h4>	
 </details>
 	
 </h3>
