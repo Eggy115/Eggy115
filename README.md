@@ -1,9 +1,9 @@
 <h1 align="center">
   Bonjour
 </h1>
-<h3 align="left">
+<h3 align="center">
 <details> 
-	<summary>👋 I am <a href="https://github.com/Eggy115">Eggy115</a></summary>	
+	<summary align="left">👋 I am <a href="https://github.com/Eggy115">Eggy115</a></summary>	
 <p align="left">	
 	               
 Helloooo       
