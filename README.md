@@ -7,13 +7,13 @@
 <p align="justify">	
 	               
 Helloooo       
-<li> This is paragraph text 🌍      
-<li> I don't know what to write here 🖥️     
-<li> Okey ✉️     
-<li> This is paragraph text 🚀      
-<li> I don't know what to write here 🧠     
-<li> Okey 🧠  
-<li> Okey ⚡  
+<li> 🌍 This is paragraph text       
+<li> 🖥️ I don't know what to write here      
+<li> ✉️ Okey      
+<li> 🚀 Them more emojis in the readme       
+<li> 🧠 The better your project is      
+<li> 🤝 I...   
+<li> ⚡ Whoo   
 </p>	
 </details>
 	
