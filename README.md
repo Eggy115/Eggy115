@@ -170,7 +170,16 @@ write-host "Eggy115"
 </details>
 	
 #  
-  
+
+<details>    
+	<summary><h3>Code</h3></summary>    
+	<h1></h1> 
+<div align="center" style="width:20%">  	
+hello
+</details>
+	
+#   	
+	
 <div align="center" style="width:100%">  
 <img src="https://github-readme-stats.vercel.app/api/?username=Eggy115&theme=gotham&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggy115&layout=compact&theme=gotham&hide_border=true" />
