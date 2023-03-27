@@ -105,7 +105,7 @@ Eggy115 always win and never lose
 <div align="center" style="width:20%">   
 	
 <details>    
-	<summary><h3>Code</h3></summary>    
+	<summary><h3>💻 Code</h3></summary>    
 	<h1></h1> 
 	 
 <div align="left" style="width:20%">   
@@ -172,7 +172,7 @@ write-host "Eggy115"
 #  
 
 <details>    
-	<summary><h3>Skills</h3></summary>    
+	<summary><h3>🛠️ Skills</h3></summary>    
 	<h1></h1> 
 <div align="center" style="width:20%">  	
 
