@@ -1,5 +1,5 @@
 <h1 align="center">
-  I write my `README.md`'s with GPT-3.5
+  I write my <code>README.md</code>'s with GPT-3.5
 </h1>
 <h3 align="center">
 <details> 
