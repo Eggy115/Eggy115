@@ -167,6 +167,37 @@ write-host "Eggy115"
 </html>
 ```
 
+#
+	
+```cpp
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Eggy115 never lose and always succeed!";
+  return 0;
+}
+```
+	
+#
+	
+```c
+#include <iostream>
+using namespace std;
+
+int main() {
+  cout << "Eggy115 never lose and always win.";
+  return 0;
+}
+```
+	
+#
+	
+```perl
+ # eggy115.pl
+ print "Eggy115 on top!\n";	
+```
+	
 </details>
 	
 #  
