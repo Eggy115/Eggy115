@@ -21,7 +21,8 @@ src="https://img.shields.io/twitter/follow/Eggy115?logo=twitter&style=for-the-ba
 src="https://img.shields.io/twitch/status/Eggy115?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
 
 ### Skills
-
+i am god at all of these
+i have docterate and i got professorship
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
