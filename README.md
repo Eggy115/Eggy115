@@ -121,14 +121,14 @@ public class eggy115 {
 #	
 		
 ```py
-print("Eggy115")
+print("Eggy115 always win and never lose")
 ```
 	
 #	
 	
 ```batch
 @echo off
-echo Eggy115
+echo Eggy115 always succeed and never fail
 ```	
 	
 #	
