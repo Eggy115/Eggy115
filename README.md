@@ -182,11 +182,10 @@ int main() {
 #
 	
 ```c
-#include <iostream>
-using namespace std;
+#include <stdio.h>
 
 int main() {
-  cout << "Eggy115 never lose and always win.";
+  printf("Eggy115 never lose and always win!");
   return 0;
 }
 ```
