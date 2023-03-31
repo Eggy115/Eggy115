@@ -174,7 +174,7 @@ write-host "Eggy115"
 using namespace std;
 
 int main() {
-  cout << "Eggy115 never lose and always succeed!";
+  cout << "Eggy115 never fail and always succeed!";
   return 0;
 }
 ```
