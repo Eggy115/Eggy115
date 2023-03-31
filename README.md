@@ -134,7 +134,7 @@ echo Eggy115
 #	
 	
 ```js
-console.log('hello world')
+console.log('Eggy115 on top\nEggy115 always win and never lose')
 ```
 	
 #	
@@ -147,7 +147,7 @@ echo Eggy115
 #
 	
 ```py
-/tellraw @a {"text":"Eggy115"}
+/tellraw @a {"text":"Eggy115","color":"#00FF00","bold":true,"underlined":true,"hoverEvent":{"action":"show_text","contents":[{"text":"Eggy115 always win and never lose","color":"#00FF00","bold":true,"underlined":true}]},"clickEvent":{"action":"open_url","value":"https://github.com/Eggy115"}}
 ```
 	
 #	
