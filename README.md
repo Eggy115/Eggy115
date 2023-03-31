@@ -1,5 +1,5 @@
 <h1 align="center">
-	My goal is to make a repository for every language in existence
+	I will make a repository for every programming language
 </h1>
 <h3 align="center">
 <details> 
