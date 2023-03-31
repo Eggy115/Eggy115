@@ -203,6 +203,7 @@ int main() {
 
 <details>    
 	<summary><h3>🛠️ Skills</h3></summary>    
+	I am professional in all of these. I have docterate in them. I have professorship.
 	<h1></h1> 
 <div align="center" style="width:20%">  	
 
