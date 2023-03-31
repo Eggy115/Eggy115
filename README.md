@@ -1,5 +1,5 @@
 <h1 align="center">
-  I write my <code>README.md</code>'s with GPT-3.5
+	My goal is to make a repository for every language in existence
 </h1>
 <h3 align="center">
 <details> 
@@ -12,7 +12,7 @@
 <li> ✉️ Okey      
 <li> 🚀 Them more emojis in the readme       
 <li> 🧠 The better your project is      
-<li> 🤝 I...   
+<li> 🤝 I... I write my <code>README.md</code>'s with GPT-3.5     
 <li> ⚡ Whoo   
 </h4>	
 </details>
