@@ -252,8 +252,6 @@ namespace HelloWorld
 }
 ```	
 	
-</details>
-	
 #  
 
 ```r
@@ -285,6 +283,8 @@ IO.puts("hello Eggy115")
 ```haskell
 putStrLn "Hello World"
 ```	
+
+</details>	
 	
 <details>    
 	<summary><h3>🛠️ Skills</h3></summary>    
