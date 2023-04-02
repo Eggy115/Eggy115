@@ -284,6 +284,67 @@ IO.puts("hello Eggy115")
 putStrLn "Hello World"
 ```	
 
+#
+	
+```d
+import std.stdio; 
+ 
+void main(string[] args) { 
+   writeln("Eggy115 is much good"); 
+}
+```	
+	
+#
+	
+```cfc
+component{
+
+    function hello(){
+       return "Eggy115 is number one";
+    }
+
+}	
+```
+
+#
+	
+```cfm
+<cfscript>
+    s = new Sample();
+    writeOutput( s.eggy115() );
+</cfscript>	
+```
+	
+#
+	
+```purs
+module Main where
+
+import Control.Monad.Eff.Console
+
+main = log "First place is Eggy115"	
+```
+	
+#
+	
+```lua
+print("Eggy115 owns you")
+```	
+	
+#
+	
+```vb
+namespace HelloWorld;
+
+ internal class Program
+ {
+     static void Main(string[] args)
+     {
+         Console.WriteLine("Eggy115 have never fail. Eggy115 have always win.");
+     }
+ }	
+```	
+	
 </details>	
 	
 <details>    
