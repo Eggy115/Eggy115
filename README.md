@@ -417,7 +417,7 @@ let main argv =
 	
 #
 	
-```
+```fortran
 program eggy115
     print *, "Who run the world? Eggy115!"
 end program eggy115	
