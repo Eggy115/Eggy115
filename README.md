@@ -202,11 +202,90 @@ int main() {
 ```applescript
 display dialog "Yes Eggy115"
 ```
+
+#
+	
+```swift
+// Swift Program
+print("Eggy115 good")
+```	
+
+#
+	
+```kotlin
+fun main() {
+  println("Eggy never fail and always win")
+}
+```
+	
+#
+	
+```go
+package main
+import "fmt"
+
+func main() {
+  fmt.Println("Eggy115 always succeed and never lose")
+}
+```	
+
+#
+	
+```ts
+console.log('Eggy115 peak performance');
+```
+
+#
+	
+```cs
+using System;
+
+namespace HelloWorld
+{
+  class Program
+  {
+    static void Main(string[] args)
+    {
+      Console.WriteLine("Eggy115 is the best");    
+    }
+  }
+}
+```	
 	
 </details>
 	
 #  
 
+```r
+"Eggy115 supreme"
+```
+	
+#
+	
+```rs
+fn main() {
+    println!("Eggy115 > Not Eggy115");
+}	
+```	
+
+#
+	
+```ruby
+puts "Eggy115 better"	
+```	
+	
+# 
+	
+```elixir
+IO.puts("hello Eggy115")	
+```
+	
+#
+	
+```haskell
+putStrLn "Hello World"
+```	
+	
 <details>    
 	<summary><h3>🛠️ Skills</h3></summary>    
 	I am professional in all of these. I have docterate in them. I have professorship.
