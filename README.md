@@ -345,6 +345,84 @@ namespace HelloWorld;
  }	
 ```	
 	
+#
+	
+```scala
+object eggy115 
+{
+    def main(args: Array[String]) 
+    {
+        println("Eggy115 = Poggerz") 
+    }
+}	
+```	
+	
+#
+	
+```matlab
+disp('Eggy115 much epic');
+```	
+	
+#
+	
+```coffeescript
+console.lof 'Eggy115 much good'
+```
+	
+#	
+	
+```dart
+main(){
+    print('Eggy115 far superior');
+}	
+```	
+
+```pascal
+program Hello;
+begin
+  writeln ('Eggy115 speak every language');
+end.
+```	
+	
+#
+	
+```asm
+    global _main
+    extern _printf
+
+    section .text
+_main:
+    push    message
+    call    _printf
+    add        esp, 4
+message:
+    db    'Eggy115 very cool', 10, 0	
+```	
+
+#
+	
+```fs
+open System
+[<EntryPoint>]
+let main argv =
+    printfn "Eggy115 code the best"
+    0
+```	
+	
+#
+	
+```lisp
+(print "Eggy115 sick")	
+```	
+	
+#
+	
+```
+program eggy115
+    print *, "Who run the world? Eggy115!"
+end program eggy115	
+```	
+	
 </details>	
 
 #	
