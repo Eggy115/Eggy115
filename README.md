@@ -1,5 +1,4 @@
-<h1 align="center">
-	Eggy115    
+<h1 align="center">  
 	I will make a repository for every programming language
 </h1>
 <h3 align="center">
@@ -48,6 +47,7 @@ Me exist
 <ins>Technology is pretty spooky yo</ins>        
 ~~This sentence may or not be grammatically correct.~~     
 Eggy115 always win and never lose    
+> Quotes
 
 <hr>          
 
