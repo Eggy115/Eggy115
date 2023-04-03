@@ -14,11 +14,12 @@
 <li> 🧠 The better your project is      
 <li> 🤝 I... I write my <code>README.md</code>'s with GPT-3.5     
 <li> ⚡ Whoo yeah baby, let's go!   
-</h4>	
 	
 > "I will make a repository for every programming language" - Eggy115    
 > "You can't make a repository for every programming language" - Person     
-> "I will make a repository for every programming language" - Eggy115     
+> "I will make a repository for every programming language" - Eggy115 
+	
+</h4>	    
 	
 </details>
 	
