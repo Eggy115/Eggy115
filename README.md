@@ -376,7 +376,9 @@ main(){
     print('Eggy115 far superior');
 }	
 ```	
-
+	
+#
+	
 ```pascal
 program Hello;
 begin
