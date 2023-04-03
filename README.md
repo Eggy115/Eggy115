@@ -1,5 +1,5 @@
 <h1 align="center">  
-	I will make a repository for every programming language
+	gitty gitty bang bang
 </h1>
 <h3 align="center">
 <details> 
@@ -18,10 +18,6 @@
 ####	
 	   
 > "I will make a repository for every programming language" - Eggy115
-	
-> "You can't make a repository for every programming language" - Person    
-	
-> "I will make a repository for every programming language" - Eggy115 
 	
 </h4>	    
 	
