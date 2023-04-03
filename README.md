@@ -15,6 +15,11 @@
 <li> 🤝 I... I write my <code>README.md</code>'s with GPT-3.5     
 <li> ⚡ Whoo yeah baby, let's go!   
 </h4>	
+	
+> "I will make a repository for every programming language" - Eggy115
+> "You can't make a repository for every programming language" - Person
+> "I will make a repository for every programming language" - Eggy115
+	
 </details>
 	
 </h3>
@@ -47,7 +52,6 @@ Me exist
 <ins>Technology is pretty spooky yo</ins>        
 ~~This sentence may or not be grammatically correct.~~     
 Eggy115 always win and never lose    
-> Quotes
 
 <hr>          
 
