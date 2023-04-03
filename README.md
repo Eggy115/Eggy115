@@ -13,7 +13,7 @@
 <li> 🚀 Them more emojis in the readme       
 <li> 🧠 The better your project is      
 <li> 🤝 I... I write my <code>README.md</code>'s with GPT-3.5     
-<li> ⚡ Whoo   
+<li> ⚡ Whoo yeah baby, let's go!   
 </h4>	
 </details>
 	
