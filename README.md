@@ -536,7 +536,7 @@ end program eggy115
 	
 <div align="center" style="width:100%">  
 <img src="https://github-readme-stats.vercel.app/api/?username=Eggy115&theme=gotham&hide_border=true&custom_title=Eggy115%20%on%20%top&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggy115&langs_count=11&layout=compact&theme=gotham&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggy115&langs_count=10&layout=compact&theme=gotham&hide_border=true" />
 <hr>   
 </p>
 
