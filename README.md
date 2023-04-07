@@ -1,5 +1,5 @@
 <h1 align="center">  
-	Bone jaw
+	Gotta Catch 'Em All
 </h1>
 <h3 align="center">
 <details> 
