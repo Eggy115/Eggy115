@@ -1,5 +1,5 @@
 <h1 align="center">  
-	1 Repository for Every Programming Language
+	Repository for Every Programming Language
 </h1>
 <h3 align="center">
 <details> 
