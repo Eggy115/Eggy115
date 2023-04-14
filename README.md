@@ -9,7 +9,7 @@
 <p align="center"> Helloooo this text is simply filler... to fill in the gap between the title and the list.... yeah!</p>      
 <li> 🌍 This is paragraph text       
 <li> 🖥️ I don't know what to write here      
-<li> ✉️ Okey      
+<li> ✉️ Okey dokey     
 <li> 🚀 Them more emojis in the readme       
 <li> 🧠 The better your project is      
 <li> 🤝 I... I write my <code>README.md</code>'s with GPT-3.5     
@@ -536,7 +536,7 @@ end program eggy115
 	
 <div align="center" style="width:100%">  
 <img src="https://github-readme-stats.vercel.app/api/?username=Eggy115&theme=gotham&hide_border=true&custom_title=Eggy115%20%on%20%top&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggy115&langs_count=100&layout=compact&theme=gotham&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eggy115&langs_count=10&layout=compact&theme=gotham&hide_border=true" />
 <hr>   
 </p>
 
