@@ -6,7 +6,7 @@
 	<summary align="center">👋 I am <a href="https://github.com/Eggy115">Eggy115</a></summary>	
 <h4 align="justify">	
 	               
-<p align="center"> This entire github account is a joke... do not take this seriously... this is filler text...</p>      
+<p align="center"> This entire github account is a joke... do not take this seriously please... this is entirely just filler text...</p>      
 <li> 🌍 This is paragraph text       
 <li> 🖥️ I don't know what to write here      
 <li> ✉️ Okey dokey     
